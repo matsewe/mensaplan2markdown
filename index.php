@@ -1,3 +1,3 @@
 <?php
-echo "Hallo Welt";
+print_r($_POST);
 ?>
